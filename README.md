@@ -1,2 +1,2 @@
 # UnityPhotoshopBlendBackgroundShader
-Unity shader that helps blending with everything in background photoshop style
+Unity shader that helps blending with everything in background photoshop blend modes style
